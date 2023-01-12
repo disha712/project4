@@ -1,0 +1,41 @@
+.ping_pong{
+    width:100%;
+    font-size:45px;
+    text-align:center;
+}
+h4{
+    background-color:grey;
+    line-height:2;
+    color:white;
+}
+.ping_pong h3{
+    display:inline;
+}
+#button_1{
+    float:right;
+    margin-right:15px;
+    background-color: crimson;
+    color:white;
+    height:40px;
+    font-size:20px;
+    border-radius:10px;
+    margin-top:20px;
+    border-color:blue;
+}
+#play_button{
+    background-color:blue;
+    border-radius:10px;
+    border-width:3px;
+    font-size:20px;
+}
+#restart_button{
+    background-color:red;
+    border-radius:10px;
+    font-size:20px;
+    border-width:2px;
+}
+canvas{
+    border-radius:10px;
+    border-width:5px;
+    border-color:blue;
+}
